@@ -1,2 +1,2 @@
-# 21521848-LTMCB
+LTMCB
 Bài tập nhóm
